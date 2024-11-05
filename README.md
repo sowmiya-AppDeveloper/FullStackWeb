@@ -58,14 +58,22 @@ Enhanced Analytics: Expanded metrics and reporting in the admin dashboard.
 Feel free to fork and submit pull requests for enhancements!
 
 # ScreenShorts
-![Sample Image](Image1.png)
-![Sample Image](Image2.png)
 
-![Sample Image](Image5.png)
-![Sample Image](Image6.png)
-![Sample Image](Image7.png)
-![Sample Image](Image8.png)
-![Sample Image](Image9.png)
-![Sample Image](Image10.png)
-![Sample Image](Image11.png)
-![Sample Image](Image12.png)
+<img src="Image1.png" alt="Sample Image" width="800"/>
+<img src="Image2.png" alt="Sample Image" width="800"/>
+<img src="Image5.png" alt="Sample Image" width="800"/>
+<img src="Image6.png" alt="Sample Image" width="800"/>
+<img src="Image7.png" alt="Sample Image" width="800"/>
+<img src="Image8.png" alt="Sample Image" width="800"/>
+<img src="Image9.png" alt="Sample Image" width="800"/>
+<img src="Image10.png" alt="Sample Image" width="800"/>
+<img src="Image11.png" alt="Sample Image" width="800"/>
+<img src="Image12.png" alt="Sample Image" width="800"/>
+
+# AdminPanel ScreenShorts
+
+<img src="Image13.png" alt="Sample Image" width="800"/>
+<img src="Image14.png" alt="Sample Image" width="800"/>
+<img src="Image15.png" alt="Sample Image" width="800"/>
+
+
